@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephCamillus
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Master of Computer Application
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me JosephCamillus @github
