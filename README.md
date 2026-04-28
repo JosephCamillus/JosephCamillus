@@ -20,7 +20,7 @@ I specialize in designing secure, scalable backend systems with **Go (Golang)** 
 ## 🛠 Tech Stack
 
 ### Backend
-Go (Golang) • REST APIs • Gin • Fiber • JWT • Middleware
+Go (Golang) • REST APIs • JWT • Middleware
 
 ### Cloud & Serverless
 AWS Lambda • API Gateway • DynamoDB • S3 • IAM • CloudWatch • EventBridge
